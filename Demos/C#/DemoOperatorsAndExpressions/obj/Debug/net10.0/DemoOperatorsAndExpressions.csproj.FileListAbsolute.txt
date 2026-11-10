@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/bin/Debug/net10.0/DemoOperatorsAndExpressions
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/bin/Debug/net10.0/DemoOperatorsAndExpressions.deps.json
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/bin/Debug/net10.0/DemoOperatorsAndExpressions.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/bin/Debug/net10.0/DemoOperatorsAndExpressions.dll
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/bin/Debug/net10.0/DemoOperatorsAndExpressions.pdb
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.sourcelink.json
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.dll
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/refint/DemoOperatorsAndExpressions.dll
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.pdb
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/DemoOperatorsAndExpressions.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/DemoOperatorsAndExpressions/obj/Debug/net10.0/ref/DemoOperatorsAndExpressions.dll

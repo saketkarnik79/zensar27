@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/DemoControlStructures/bin/Debug/net10.0/DemoControlStructures
+/workspaces/zensar27/Demos/C#/DemoControlStructures/bin/Debug/net10.0/DemoControlStructures.deps.json
+/workspaces/zensar27/Demos/C#/DemoControlStructures/bin/Debug/net10.0/DemoControlStructures.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/DemoControlStructures/bin/Debug/net10.0/DemoControlStructures.dll
+/workspaces/zensar27/Demos/C#/DemoControlStructures/bin/Debug/net10.0/DemoControlStructures.pdb
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.sourcelink.json
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.dll
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/refint/DemoControlStructures.dll
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.pdb
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/DemoControlStructures.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/DemoControlStructures/obj/Debug/net10.0/ref/DemoControlStructures.dll
