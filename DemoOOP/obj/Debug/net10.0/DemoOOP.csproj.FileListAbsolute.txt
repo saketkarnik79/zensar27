@@ -1,0 +1,15 @@
+/workspaces/zensar27/DemoOOP/bin/Debug/net10.0/DemoOOP
+/workspaces/zensar27/DemoOOP/bin/Debug/net10.0/DemoOOP.deps.json
+/workspaces/zensar27/DemoOOP/bin/Debug/net10.0/DemoOOP.runtimeconfig.json
+/workspaces/zensar27/DemoOOP/bin/Debug/net10.0/DemoOOP.dll
+/workspaces/zensar27/DemoOOP/bin/Debug/net10.0/DemoOOP.pdb
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.AssemblyInfoInputs.cache
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.AssemblyInfo.cs
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.sourcelink.json
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.dll
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/refint/DemoOOP.dll
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.pdb
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/DemoOOP.genruntimeconfig.cache
+/workspaces/zensar27/DemoOOP/obj/Debug/net10.0/ref/DemoOOP.dll
