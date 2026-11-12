@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/bin/Debug/net10.0/ValueTypesDemo
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/bin/Debug/net10.0/ValueTypesDemo.deps.json
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/bin/Debug/net10.0/ValueTypesDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/bin/Debug/net10.0/ValueTypesDemo.dll
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/bin/Debug/net10.0/ValueTypesDemo.pdb
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.dll
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/refint/ValueTypesDemo.dll
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.pdb
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ValueTypesDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/ValueTypesDemo/obj/Debug/net10.0/ref/ValueTypesDemo.dll

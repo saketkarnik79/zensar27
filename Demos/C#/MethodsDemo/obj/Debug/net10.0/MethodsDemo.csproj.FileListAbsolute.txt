@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/MethodsDemo/bin/Debug/net10.0/MethodsDemo
+/workspaces/zensar27/Demos/C#/MethodsDemo/bin/Debug/net10.0/MethodsDemo.deps.json
+/workspaces/zensar27/Demos/C#/MethodsDemo/bin/Debug/net10.0/MethodsDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/MethodsDemo/bin/Debug/net10.0/MethodsDemo.dll
+/workspaces/zensar27/Demos/C#/MethodsDemo/bin/Debug/net10.0/MethodsDemo.pdb
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.dll
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/refint/MethodsDemo.dll
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.pdb
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/MethodsDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/MethodsDemo/obj/Debug/net10.0/ref/MethodsDemo.dll

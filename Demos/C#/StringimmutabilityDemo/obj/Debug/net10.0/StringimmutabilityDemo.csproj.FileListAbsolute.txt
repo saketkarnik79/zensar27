@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/bin/Debug/net10.0/StringimmutabilityDemo
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/bin/Debug/net10.0/StringimmutabilityDemo.deps.json
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/bin/Debug/net10.0/StringimmutabilityDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/bin/Debug/net10.0/StringimmutabilityDemo.dll
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/bin/Debug/net10.0/StringimmutabilityDemo.pdb
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.dll
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/refint/StringimmutabilityDemo.dll
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.pdb
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/StringimmutabilityDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/StringimmutabilityDemo/obj/Debug/net10.0/ref/StringimmutabilityDemo.dll

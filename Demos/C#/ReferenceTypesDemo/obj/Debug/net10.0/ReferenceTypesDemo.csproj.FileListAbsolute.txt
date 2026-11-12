@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/bin/Debug/net10.0/ReferenceTypesDemo
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/bin/Debug/net10.0/ReferenceTypesDemo.deps.json
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/bin/Debug/net10.0/ReferenceTypesDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/bin/Debug/net10.0/ReferenceTypesDemo.dll
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/bin/Debug/net10.0/ReferenceTypesDemo.pdb
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.dll
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/refint/ReferenceTypesDemo.dll
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.pdb
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ReferenceTypesDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/ReferenceTypesDemo/obj/Debug/net10.0/ref/ReferenceTypesDemo.dll

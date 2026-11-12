@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/zensar27/DemoOOP/DemoOOP.csproj": {}
+    "/workspaces/zensar27/Demos/C#/DemoOOP/DemoOOP.csproj": {}
   },
   "projects": {
-    "/workspaces/zensar27/DemoOOP/DemoOOP.csproj": {
+    "/workspaces/zensar27/Demos/C#/DemoOOP/DemoOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/zensar27/DemoOOP/DemoOOP.csproj",
+        "projectUniqueName": "/workspaces/zensar27/Demos/C#/DemoOOP/DemoOOP.csproj",
         "projectName": "DemoOOP",
-        "projectPath": "/workspaces/zensar27/DemoOOP/DemoOOP.csproj",
+        "projectPath": "/workspaces/zensar27/Demos/C#/DemoOOP/DemoOOP.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/zensar27/DemoOOP/obj/",
+        "outputPath": "/workspaces/zensar27/Demos/C#/DemoOOP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

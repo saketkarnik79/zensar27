@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.deps.json
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.dll
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/bin/Debug/net10.0/CustomTypesDemo.pdb
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.dll
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/refint/CustomTypesDemo.dll
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.pdb
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/CustomTypesDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/CustomTypesDemo/obj/Debug/net10.0/ref/CustomTypesDemo.dll

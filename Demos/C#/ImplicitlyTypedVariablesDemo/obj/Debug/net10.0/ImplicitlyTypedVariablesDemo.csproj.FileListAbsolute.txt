@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/bin/Debug/net10.0/ImplicitlyTypedVariablesDemo
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/bin/Debug/net10.0/ImplicitlyTypedVariablesDemo.deps.json
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/bin/Debug/net10.0/ImplicitlyTypedVariablesDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/bin/Debug/net10.0/ImplicitlyTypedVariablesDemo.dll
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/bin/Debug/net10.0/ImplicitlyTypedVariablesDemo.pdb
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.dll
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/refint/ImplicitlyTypedVariablesDemo.dll
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.pdb
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ImplicitlyTypedVariablesDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/ImplicitlyTypedVariablesDemo/obj/Debug/net10.0/ref/ImplicitlyTypedVariablesDemo.dll

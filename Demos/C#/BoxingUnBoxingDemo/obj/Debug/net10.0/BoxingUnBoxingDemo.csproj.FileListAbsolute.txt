@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.deps.json
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.dll
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/bin/Debug/net10.0/BoxingUnBoxingDemo.pdb
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.dll
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/refint/BoxingUnBoxingDemo.dll
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.pdb
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/BoxingUnBoxingDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/BoxingUnBoxingDemo/obj/Debug/net10.0/ref/BoxingUnBoxingDemo.dll

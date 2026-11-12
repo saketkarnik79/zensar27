@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/PropertiesDemo/bin/Debug/net10.0/PropertiesDemo
+/workspaces/zensar27/Demos/C#/PropertiesDemo/bin/Debug/net10.0/PropertiesDemo.deps.json
+/workspaces/zensar27/Demos/C#/PropertiesDemo/bin/Debug/net10.0/PropertiesDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/PropertiesDemo/bin/Debug/net10.0/PropertiesDemo.dll
+/workspaces/zensar27/Demos/C#/PropertiesDemo/bin/Debug/net10.0/PropertiesDemo.pdb
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.dll
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/refint/PropertiesDemo.dll
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.pdb
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/PropertiesDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/PropertiesDemo/obj/Debug/net10.0/ref/PropertiesDemo.dll
