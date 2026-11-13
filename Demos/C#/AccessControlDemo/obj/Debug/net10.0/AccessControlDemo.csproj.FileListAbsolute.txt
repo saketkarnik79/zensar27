@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo
+/workspaces/zensar27/Demos/C#/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.deps.json
+/workspaces/zensar27/Demos/C#/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.dll
+/workspaces/zensar27/Demos/C#/AccessControlDemo/bin/Debug/net10.0/AccessControlDemo.pdb
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.dll
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/refint/AccessControlDemo.dll
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.pdb
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/AccessControlDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/AccessControlDemo/obj/Debug/net10.0/ref/AccessControlDemo.dll

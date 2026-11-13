@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/bin/Debug/net10.0/PolymorphismDemo
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/bin/Debug/net10.0/PolymorphismDemo.deps.json
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/bin/Debug/net10.0/PolymorphismDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/bin/Debug/net10.0/PolymorphismDemo.dll
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/bin/Debug/net10.0/PolymorphismDemo.pdb
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.dll
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/refint/PolymorphismDemo.dll
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.pdb
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/PolymorphismDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/PolymorphismDemo/obj/Debug/net10.0/ref/PolymorphismDemo.dll

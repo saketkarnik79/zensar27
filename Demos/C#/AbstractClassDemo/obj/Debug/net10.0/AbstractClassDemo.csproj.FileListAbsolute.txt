@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/bin/Debug/net10.0/AbstractClassDemo
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/bin/Debug/net10.0/AbstractClassDemo.deps.json
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/bin/Debug/net10.0/AbstractClassDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/bin/Debug/net10.0/AbstractClassDemo.dll
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/bin/Debug/net10.0/AbstractClassDemo.pdb
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.dll
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/refint/AbstractClassDemo.dll
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.pdb
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/AbstractClassDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/AbstractClassDemo/obj/Debug/net10.0/ref/AbstractClassDemo.dll

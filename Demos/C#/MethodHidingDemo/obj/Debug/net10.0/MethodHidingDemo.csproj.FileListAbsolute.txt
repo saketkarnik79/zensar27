@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.deps.json
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.dll
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/bin/Debug/net10.0/MethodHidingDemo.pdb
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.dll
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/refint/MethodHidingDemo.dll
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.pdb
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/MethodHidingDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/MethodHidingDemo/obj/Debug/net10.0/ref/MethodHidingDemo.dll

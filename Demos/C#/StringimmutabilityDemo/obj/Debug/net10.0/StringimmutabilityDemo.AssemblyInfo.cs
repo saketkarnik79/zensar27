@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringimmutabilityDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a46cefa9dd2da32fe1d5eccaa2c4261904f50668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2076da8f0607b4293dbe7a6d5bfe26cf8d38ccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringimmutabilityDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringimmutabilityDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
