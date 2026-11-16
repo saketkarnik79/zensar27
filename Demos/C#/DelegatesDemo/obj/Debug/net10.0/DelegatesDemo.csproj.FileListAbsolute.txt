@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/DelegatesDemo/bin/Debug/net10.0/DelegatesDemo
+/workspaces/zensar27/Demos/C#/DelegatesDemo/bin/Debug/net10.0/DelegatesDemo.deps.json
+/workspaces/zensar27/Demos/C#/DelegatesDemo/bin/Debug/net10.0/DelegatesDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/DelegatesDemo/bin/Debug/net10.0/DelegatesDemo.dll
+/workspaces/zensar27/Demos/C#/DelegatesDemo/bin/Debug/net10.0/DelegatesDemo.pdb
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.dll
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/refint/DelegatesDemo.dll
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.pdb
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/DelegatesDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/DelegatesDemo/obj/Debug/net10.0/ref/DelegatesDemo.dll

@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/bin/Debug/net10.0/InterfacesDemo4
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/bin/Debug/net10.0/InterfacesDemo4.deps.json
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/bin/Debug/net10.0/InterfacesDemo4.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/bin/Debug/net10.0/InterfacesDemo4.dll
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/bin/Debug/net10.0/InterfacesDemo4.pdb
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.sourcelink.json
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.dll
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/refint/InterfacesDemo4.dll
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.pdb
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/InterfacesDemo4.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/InterfacesDemo4/obj/Debug/net10.0/ref/InterfacesDemo4.dll

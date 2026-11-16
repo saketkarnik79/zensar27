@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/bin/Debug/net10.0/ExceptionHandlingDemo4
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/bin/Debug/net10.0/ExceptionHandlingDemo4.deps.json
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/bin/Debug/net10.0/ExceptionHandlingDemo4.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/bin/Debug/net10.0/ExceptionHandlingDemo4.dll
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/bin/Debug/net10.0/ExceptionHandlingDemo4.pdb
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.sourcelink.json
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.dll
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/refint/ExceptionHandlingDemo4.dll
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.pdb
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ExceptionHandlingDemo4.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/ExceptionHandlingDemo4/obj/Debug/net10.0/ref/ExceptionHandlingDemo4.dll

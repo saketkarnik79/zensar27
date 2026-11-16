@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/EventsDemo/bin/Debug/net10.0/EventsDemo
+/workspaces/zensar27/Demos/C#/EventsDemo/bin/Debug/net10.0/EventsDemo.deps.json
+/workspaces/zensar27/Demos/C#/EventsDemo/bin/Debug/net10.0/EventsDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/EventsDemo/bin/Debug/net10.0/EventsDemo.dll
+/workspaces/zensar27/Demos/C#/EventsDemo/bin/Debug/net10.0/EventsDemo.pdb
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.dll
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/refint/EventsDemo.dll
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.pdb
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/EventsDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/EventsDemo/obj/Debug/net10.0/ref/EventsDemo.dll
