@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/bin/Debug/net10.0/ObjectInitializersDemo
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/bin/Debug/net10.0/ObjectInitializersDemo.deps.json
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/bin/Debug/net10.0/ObjectInitializersDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/bin/Debug/net10.0/ObjectInitializersDemo.dll
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/bin/Debug/net10.0/ObjectInitializersDemo.pdb
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.dll
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/refint/ObjectInitializersDemo.dll
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.pdb
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ObjectInitializersDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/ObjectInitializersDemo/obj/Debug/net10.0/ref/ObjectInitializersDemo.dll

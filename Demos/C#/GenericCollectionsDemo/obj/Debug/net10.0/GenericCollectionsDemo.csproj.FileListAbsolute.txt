@@ -1,0 +1,15 @@
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/bin/Debug/net10.0/GenericCollectionsDemo
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/bin/Debug/net10.0/GenericCollectionsDemo.deps.json
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/bin/Debug/net10.0/GenericCollectionsDemo.runtimeconfig.json
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/bin/Debug/net10.0/GenericCollectionsDemo.dll
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/bin/Debug/net10.0/GenericCollectionsDemo.pdb
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.AssemblyInfoInputs.cache
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.AssemblyInfo.cs
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.csproj.CoreCompileInputs.cache
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.sourcelink.json
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.dll
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/refint/GenericCollectionsDemo.dll
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.pdb
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/GenericCollectionsDemo.genruntimeconfig.cache
+/workspaces/zensar27/Demos/C#/GenericCollectionsDemo/obj/Debug/net10.0/ref/GenericCollectionsDemo.dll
