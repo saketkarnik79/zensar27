@@ -27,3 +27,5 @@
 /workspaces/zensar27/Demos/Web/MyWebApp/obj/Debug/net10.0/MyWebApp.pdb
 /workspaces/zensar27/Demos/Web/MyWebApp/obj/Debug/net10.0/MyWebApp.genruntimeconfig.cache
 /workspaces/zensar27/Demos/Web/MyWebApp/obj/Debug/net10.0/ref/MyWebApp.dll
+/workspaces/zensar27/Demos/Web/MyWebApp/obj/Debug/net10.0/MyWebApp.RazorAssemblyInfo.cache
+/workspaces/zensar27/Demos/Web/MyWebApp/obj/Debug/net10.0/MyWebApp.RazorAssemblyInfo.cs
