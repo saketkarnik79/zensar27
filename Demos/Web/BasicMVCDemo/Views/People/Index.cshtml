@@ -1,0 +1,23 @@
+@* Strongly typed view *@
+@model Person;
+
+<h1>
+    People Data
+</h1>
+<hr/>
+@* <p>Person Id: @Model.PersonId</p>
+<p>Name: @Model.Name</p>
+<p>Age: @Model.Age</p> *@
+
+<div>
+    @Html.DisplayNameFor(m => m.Id)
+    @Html.DisplayFor(m => m.Id)
+</div>
+<div>
+    @Html.DisplayNameFor(m => m.Name)
+    @Html.DisplayFor(m => m.Name)
+</div>
+<div>
+    @Html.DisplayNameFor(m => m.Age)
+    @Html.DisplayFor(m => m.Age)
+</div>

@@ -1,0 +1,56 @@
+@* Strongly typed view *@
+@model Person;
+
+<h1>
+    People Data
+</h1>
+<hr/>
+<div>
+    @* @using(Html.BeginForm())
+    {
+        <div>
+            @Html.DisplayNameFor(m => m.Id)
+            @Html.EditorFor(m => m.Id)
+        </div>
+        <div>
+            @Html.DisplayNameFor(m => m.Name)
+            @Html.EditorFor(m => m.Name)
+        </div>
+        <div>
+            @Html.DisplayNameFor(m => m.Age)
+            @Html.EditorFor(m => m.Age)
+        </div>
+        <div>
+            <button type="submit" id="btnSubmit" name="btnSubmit">Submit Person Data</button>
+        </div>
+    } *@
+
+    <form asp-controller="People" asp-action="Create">
+        <div>
+            <label asp-for="Id"></label>
+            <input asp-for="Id" placeholder="Person Id"/>
+            <span asp-validation-for="Id" style="color:red;"></span>
+        </div>
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Id" style="color:red;"></span>
+
+        </div>
+        <div>
+            <label asp-for="Age"></label>
+            <input asp-for="Age" />
+            <span asp-validation-for="Id" style="color:red;"></span>
+        </div>
+        <div>
+            <button type="submit" id="btnSubmit" name="btnSubmit">Submit Person Data</button>
+        </div>
+        <div asp-validation-summary="All" style="color:red;">
+            
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    
+}

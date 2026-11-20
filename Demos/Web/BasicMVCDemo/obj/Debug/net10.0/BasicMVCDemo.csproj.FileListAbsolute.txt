@@ -27,3 +27,5 @@
 /workspaces/zensar27/Demos/Web/BasicMVCDemo/obj/Debug/net10.0/BasicMVCDemo.pdb
 /workspaces/zensar27/Demos/Web/BasicMVCDemo/obj/Debug/net10.0/BasicMVCDemo.genruntimeconfig.cache
 /workspaces/zensar27/Demos/Web/BasicMVCDemo/obj/Debug/net10.0/ref/BasicMVCDemo.dll
+/workspaces/zensar27/Demos/Web/BasicMVCDemo/obj/Debug/net10.0/BasicMVCDemo.RazorAssemblyInfo.cache
+/workspaces/zensar27/Demos/Web/BasicMVCDemo/obj/Debug/net10.0/BasicMVCDemo.RazorAssemblyInfo.cs
