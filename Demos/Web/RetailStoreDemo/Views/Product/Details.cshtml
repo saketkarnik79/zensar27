@@ -1,0 +1,26 @@
+@model RetailStoreDemo.ViewModels.ProductDetailsViewModel
+
+<h2>Product Details</h2>
+
+<p>Product ID: @Model.Product.ProductId</p>
+
+<p>Product Name: @Model.Product.ProductName</p>
+
+<p>Original Price: ₹@Model.Product.Price</p>
+
+<p>Customer: @Model.Customer.CustomerName</p>
+
+<p>Membership: @Model.Customer.MembershipType</p>
+
+<p>Discount: @Model.DiscountPercentage%</p>
+
+<p>Final Price: ₹@Model.FinalPrice</p>
+
+@if (Model.IsAvailable)
+{
+    <p class="text-success">In Stock</p>
+}
+else
+{
+    <p class="text-danger">Out of Stock</p>
+}

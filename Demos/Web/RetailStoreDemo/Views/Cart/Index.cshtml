@@ -1,0 +1,25 @@
+@model int
+
+<h2>Shopping Cart</h2>
+
+<p>Total Products: @Model</p>
+
+<form asp-controller="Cart"
+      asp-action="AddToCart"
+      method="post">
+
+    <button class="btn btn-primary">
+        Add Product
+    </button>
+
+</form>
+
+<form asp-controller="Cart"
+      asp-action="ClearCart"
+      method="post">
+
+    <button class="btn btn-danger">
+        Clear Cart
+    </button>
+
+</form>

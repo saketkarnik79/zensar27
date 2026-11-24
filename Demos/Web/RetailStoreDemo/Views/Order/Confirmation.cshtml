@@ -1,0 +1,12 @@
+<h2>Order Confirmation</h2>
+
+@if (TempData["SuccessMessage"] is string message)
+{
+    <div class="alert alert-success">
+
+        @message
+
+        <p>Order ID: @TempData["OrderId"]</p>
+
+    </div>
+}
