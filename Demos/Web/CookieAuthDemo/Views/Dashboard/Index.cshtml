@@ -1,0 +1,15 @@
+<h2>Dashboard</h2>
+
+<p>Welcome, @User.Identity?.Name</p>
+
+<p>You are successfully authenticated.</p>
+
+<form asp-controller="Account"
+      asp-action="Logout"
+      method="post">
+
+    <button class="btn btn-danger">
+        Logout
+    </button>
+
+</form>
