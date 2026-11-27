@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualMethodDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f5a0b7a7579607b540e78c47798874637cd22d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f3e25d49e27bc5c7bd7627c63854e51895b940d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualMethodDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualMethodDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
